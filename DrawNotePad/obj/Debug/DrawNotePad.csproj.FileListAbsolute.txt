@@ -1,0 +1,83 @@
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\DrawNotePad.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\DrawNotePad.pdb
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\AppManifest.xaml
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\DrawNotePad_Debug_AnyCPU.xap
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\App.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\MainPage.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\DrawNotePad.g.resources
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\DrawNotePad.Resources.AppResources.resources
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\DrawNotePad.csproj.GenerateResource.Cache
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\DrawNotePad.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\DrawNotePad.pdb
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\XapCacheFile.xml
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\zh-CN\DrawNotePad.resources.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\Setting.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\DrawNotePad.Resources.AppResources.zh-CN.resources
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\zh-CN\DrawNotePad.resources.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\Controls\DrawControl.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\DrawPage.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\TextPage.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\AddEditNote.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\DrawNotePad.csprojResolveAssemblyReference.cache
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\Controls\ShowDrawingsControl.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad\DrawNotePad\obj\Debug\NotePreview.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\DrawNotePad.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\DrawNotePad.pdb
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\zh-CN\DrawNotePad.resources.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\resources.pri
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\AppxManifest.xml
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\DrawNotePad.build.appxrecipe
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\AppManifest.xaml
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\DrawNotePad_Debug_AnyCPU.xap
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\microsoft.advertising.mobile.ui.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\DrawNotePad.csprojResolveAssemblyReference.cache
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\App.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\AddEditNote.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\Controls\DrawControl.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\Controls\ShowDrawingsControl.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\DrawPage.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\MainPage.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\Setting.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\TextPage.g.cs
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\DrawNotePad.g.resources
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\DrawNotePad.Resources.AppResources.resources
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\DrawNotePad.Resources.AppResources.zh-CN.resources
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\DrawNotePad.csproj.GenerateResource.Cache
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\zh-CN\DrawNotePad.resources.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\DrawNotePad.dll
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\DrawNotePad.pdb
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\priconfig.xml
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\priconfig.xml.intermediate
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\layout.resfiles
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\layout.resfiles.intermediate
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\resources.resfiles
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\resources.resfiles.intermediate
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\pri.resfiles
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\pri.resfiles.intermediate
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\qualifiers.txt
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\qualifiers.txt.intermediate
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\ProjectArchitectures.txt
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\MDILProjectFiles.xml
+C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Debug\XapCacheFile.xml
