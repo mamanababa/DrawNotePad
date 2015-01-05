@@ -102,6 +102,9 @@
     <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\pushpin.png">
       <PackagePath>Img\pushpin.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\pin.png">
+      <PackagePath>pin.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>

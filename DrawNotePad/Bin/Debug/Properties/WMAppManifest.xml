@@ -6,7 +6,7 @@
     <Language code="zh-CN" />
   </Languages>
   <App xmlns="" ProductID="{3db68154-9a58-4909-8ec1-908fb680b035}" Title="DrawNotePad" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="DrawNotePad author" Description="Sample description" Publisher="DrawNotePad" PublisherID="{fe7bff8f-9d74-4176-83a3-bc963229a83d}">
-    <IconPath IsRelative="true" IsResource="false">Img\add.png</IconPath>
+    <IconPath IsRelative="true" IsResource="false">pin.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING" />
       <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
@@ -23,9 +23,9 @@
     <Tokens>
       <PrimaryToken TokenID="DrawNotePadToken" TaskName="_default">
         <TemplateFlip>
-          <SmallImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileSmall.png</SmallImageURI>
+          <SmallImageURI IsRelative="true" IsResource="false">pin.png</SmallImageURI>
           <Count>0</Count>
-          <BackgroundImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileMedium.png</BackgroundImageURI>
+          <BackgroundImageURI IsRelative="true" IsResource="false">pin.png</BackgroundImageURI>
           <Title>DrawNotePad</Title>
           <BackContent></BackContent>
           <BackBackgroundImageURI></BackBackgroundImageURI>

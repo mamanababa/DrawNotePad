@@ -227,6 +227,7 @@
     <Content Include="Img\next.png" />
     <Content Include="Img\save.png" />
     <Content Include="Img\pushpin.png" />
+    <Content Include="pin.png" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\AppResources.resx">

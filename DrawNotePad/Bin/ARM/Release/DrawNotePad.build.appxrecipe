@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-U24PFFGQA48</Machine>
+    <WindowsUser>lizeyuan</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>3db68154-9a58-4909-8ec1-908fb680b035</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\ARM\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\ARM\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\ARM\Release\DrawNotePad.dll">
+      <PackagePath>DrawNotePad.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\dll\Microsoft.Advertising.Mobile.dll">
+      <PackagePath>Microsoft.Advertising.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\dll\microsoft.advertising.mobile.ui.dll">
+      <PackagePath>microsoft.advertising.mobile.ui.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.Maps.dll">
+      <PackagePath>Microsoft.Phone.Controls.Maps.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\dll\Microsoft.Phone.Controls.Toolkit.dll">
+      <PackagePath>Microsoft.Phone.Controls.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\add.png">
+      <PackagePath>Img\add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\pre.png">
+      <PackagePath>Img\pre.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\done.png">
+      <PackagePath>Img\done.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\delete.png">
+      <PackagePath>Img\delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\edit.png">
+      <PackagePath>Img\edit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\next.png">
+      <PackagePath>Img\next.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\save.png">
+      <PackagePath>Img\save.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\pushpin.png">
+      <PackagePath>Img\pushpin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\pin.png">
+      <PackagePath>pin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\ARM\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,36 @@
+﻿<xapCache source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Release\DrawNotePad_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2015/1/5 22:22:30">
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="2015/1/5 22:22:28" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Release\DrawNotePad.dll" archivePath="DrawNotePad.dll" lastWriteTime="2015/1/5 22:22:27" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Release\zh-CN\DrawNotePad.resources.dll" archivePath="zh-CN\DrawNotePad.resources.dll" lastWriteTime="2015/1/5 22:22:27" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2014/11/25 22:51:23" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014/11/27 11:25:33" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="2014/12/23 16:59:18" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2014/11/27 11:25:33" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="2014/11/27 11:25:33" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="2014/11/27 11:25:33" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="2014/11/27 11:25:33" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="2014/11/27 11:25:33" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014/11/25 22:51:23" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014/11/25 22:51:23" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014/11/25 22:51:23" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014/11/25 22:51:23" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014/11/25 22:51:23" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="2014/12/23 16:59:18" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\add.png" archivePath="Img\add.png" lastWriteTime="2014/11/26 19:49:37" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\pre.png" archivePath="Img\pre.png" lastWriteTime="2014/11/26 19:49:37" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\done.png" archivePath="Img\done.png" lastWriteTime="2014/11/26 19:49:37" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\delete.png" archivePath="Img\delete.png" lastWriteTime="2014/11/26 19:49:37" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\edit.png" archivePath="Img\edit.png" lastWriteTime="2014/11/26 19:49:37" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\next.png" archivePath="Img\next.png" lastWriteTime="2014/11/26 19:49:37" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\save.png" archivePath="Img\save.png" lastWriteTime="2014/11/26 19:49:37" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Img\pushpin.png" archivePath="Img\pushpin.png" lastWriteTime="2014/11/26 19:49:37" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2015/1/5 22:22:30" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\dll\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="2012/9/10 9:43:36" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\dll\microsoft.advertising.mobile.ui.dll" archivePath="microsoft.advertising.mobile.ui.dll" lastWriteTime="2012/9/10 9:43:36" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="2014/10/16 7:23:10" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\dll\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="2013/8/25 8:45:56" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\pin.png" archivePath="pin.png" lastWriteTime="2014/12/28 23:59:27" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2015/1/5 22:22:30" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2015/1/5 22:22:30" />
+  <file source="C:\Users\lizeyuan\Desktop\DrawNotePad - 副本\DrawNotePad\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2015/1/5 22:22:28" />
+</xapCache>
